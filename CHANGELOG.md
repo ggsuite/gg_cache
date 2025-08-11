@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+
+- Add .gitattributes file
+
 ## [1.0.7] - 2024-12-07
 
 ### Changed
@@ -43,6 +49,7 @@
 - 'Github Actions Pipeline'
 - 'Github Actions Pipeline: Add SDK file containing flutter into .github/workflows to make github installing flutter and not dart SDK'
 
+[Unreleased]: https://github.com/inlavigo/gg_cache/compare/1.0.7...HEAD
 [1.0.7]: https://github.com/inlavigo/gg_cache/compare/1.0.6...1.0.7
 [1.0.6]: https://github.com/inlavigo/gg_cache/compare/1.0.5...1.0.6
 [1.0.5]: https://github.com/inlavigo/gg_cache/compare/1.0.4...1.0.5
