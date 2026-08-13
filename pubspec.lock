@@ -100,18 +100,16 @@ packages:
   gg_capture_print:
     dependency: "direct dev"
     description:
-      name: gg_capture_print
-      sha256: ba6a19c2d7aad636cb306e556ceddb5646ed37380d18ebe9e894586e3e42c5cf
-      url: "https://pub.dev"
-    source: hosted
+      path: "../gg_capture_print"
+      relative: true
+    source: path
     version: "1.1.0"
   gg_list:
     dependency: "direct main"
     description:
-      name: gg_list
-      sha256: "3dd48cf017cd4d631829901f2329688d4cad3d4dd56a5115233b76a5e83066ca"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../gg_list"
+      relative: true
+    source: path
     version: "2.1.0"
   glob:
     dependency: transitive
