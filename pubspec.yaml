@@ -7,12 +7,12 @@ environment:
   sdk: ">=3.13.0 <4.0.0"
 
 dependencies:
-  gg_list: ^2.0.3
+  gg_list: ^2.1.0
 
 dev_dependencies:
   args: ^2.7.0
   coverage: ^1.15.1
-  gg_capture_print: ^1.0.10
+  gg_capture_print: ^1.1.0
   lints: ^6.1.0
   test: ^1.31.2
   yaml: ^3.1.3

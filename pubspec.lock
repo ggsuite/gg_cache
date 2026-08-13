@@ -101,18 +101,18 @@ packages:
     dependency: "direct dev"
     description:
       name: gg_capture_print
-      sha256: "8bb2016a9522e04a90b0d6df4678ce38aad05c6a9fa75d8b483ccbeee94663a5"
+      sha256: ba6a19c2d7aad636cb306e556ceddb5646ed37380d18ebe9e894586e3e42c5cf
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.10"
+    version: "1.1.0"
   gg_list:
     dependency: "direct main"
     description:
       name: gg_list
-      sha256: cabda06332b5fe05aca288773c95c9f2df746ad763c884b64f4f602d3ce1b84f
+      sha256: "3dd48cf017cd4d631829901f2329688d4cad3d4dd56a5115233b76a5e83066ca"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "2.1.0"
   glob:
     dependency: transitive
     description:
