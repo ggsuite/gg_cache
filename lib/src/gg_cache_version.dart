@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_cache` package.
-const String ggCacheVersion = '1.1.0';
+const String ggCacheVersion = '1.2.0';
